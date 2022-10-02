@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faroouq
 - 👀 I’m interested in Internet of Things
-- 🌱 I’m currently learning Fog Computing
+- 🌱 I’m currently learning OMNET++
 - 💞️ I’m looking to collaborate on Intrusion Detection Systems
 - 📫 How to reach me faroukmuhammadaliyu@yahoo.com
 
